@@ -12,7 +12,7 @@ st.set_page_config(
 )
 
 st.title("Kannada ASCII to Unicode Converter")
-st.caption("**Developed by Nethen**")
+st.markdown("**Developed by Nethen**")
 st.write(
     "Upload your `.doc`, `.docx`, or `.xlsx` file to convert it to Unicode format."
 )

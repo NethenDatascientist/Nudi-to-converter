@@ -11,7 +11,8 @@ st.set_page_config(
     page_title="Kannada Unicode Converter", page_icon="🔤", layout="centered"
 )
 
-st.title("🔤 Kannada ASCII to Unicode Converter")
+st.title("MI - Kannada ASCII to Unicode Converter")
+st.caption("Developed by Nethen")
 st.write(
     "Upload your `.doc`, `.docx`, or `.xlsx` file to convert it to Unicode format."
 )
